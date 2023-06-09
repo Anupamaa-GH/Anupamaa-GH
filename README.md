@@ -1,5 +1,5 @@
 [![MasterHead](https://www.cloud4c.com/sites/default/files/2022-11/oracle-gen-2-cloud-banner.jpg)
-<h1 align="center">Hi There👋, **I'm Anupamaa-GH**</h1>
+<h1 align="center">Hi There👋, **I'm Anupamaa-Hegde**</h1>
 <h3 align="center">A curious learner from India</h3>
 <img align="right" alt="Coding" width="400"src="https://static.skaip.org/img/emoticons/180x180/f6fcff/womandeveloper.gif">
 
